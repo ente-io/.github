@@ -26,6 +26,7 @@ Dark & Light
 
 [Twitter](https://twitter.com/enteio)  
 [Discord](https://ente.io/discord)  
+[Matrix](https://ente.io/matrix)  
 [Reddit](https://www.reddit.com/r/enteio/)  
 
 </div>
