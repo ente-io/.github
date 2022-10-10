@@ -8,7 +8,7 @@
 
 📸    
 
-Open source  
+Open Source  
 End-to-end Encrypted  
 Cross Platform  
 
