@@ -1,5 +1,7 @@
 <div align="center">
 
+<img width="750" alt="banner" src="https://user-images.githubusercontent.com/24503581/194852672-28d799f5-7e09-4158-ba5b-ef4af8a75482.png">
+
 # we are ente
 
 ### and we're making the best photos app in the world
