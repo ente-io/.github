@@ -15,8 +15,8 @@ Cross Platform
 ✨✨✨     
 
 Typescript, Flutter  
-[iOS](https://github.com/ente-io/frame), [Android](https://github.com/ente-io/frame), 
-[Web](https://github.com/ente-io/bada-frame), [Linux/Mac/Windows](https://github.com/ente-io/bhari-frame)  
+[iOS](https://github.com/ente-io/photos-app), [Android](https://github.com/ente-io/photos-app), 
+[Web](https://github.com/ente-io/photos-web), [Linux/Mac/Windows](https://github.com/ente-io/photos-desktop)  
 Dark & Light
 
 👩‍💻
