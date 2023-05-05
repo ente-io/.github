@@ -21,7 +21,8 @@ Dark & Light
 
 👩‍💻
 
-[Blog](https://ente.io/blog)  
+[Blog](https://ente.io/blog)
+[Design System](https://www.figma.com/file/SYtMyLBs5SAOkTbfMMzhqt/ente-Visual-Design)
 
 
 🙏
