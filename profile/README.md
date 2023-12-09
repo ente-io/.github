@@ -2,9 +2,9 @@
 
 <img width="750" alt="banner" src="https://user-images.githubusercontent.com/24503581/194852672-28d799f5-7e09-4158-ba5b-ef4af8a75482.png">
 
-# we are ente
+# We are Ente
 
-### and we're making the best photos app in the world
+### and we're building the best photos app on earth!
 
 📸    
 
@@ -21,15 +21,12 @@ Dark & Light
 
 👩‍💻
 
+[Roadmap](https://github.com/orgs/ente-io/projects/3)  
 [Blog](https://ente.io/blog)  
 [Design System](https://www.figma.com/file/SYtMyLBs5SAOkTbfMMzhqt/ente-Visual-Design)
 
-
 🙏
 
-[Twitter](https://twitter.com/enteio)  
-[Discord](https://ente.io/discord)  
-[Matrix](https://ente.io/matrix)  
-[Reddit](https://www.reddit.com/r/enteio/)  
+[Discord](https://ente.io/discord)  |  [Matrix](https://ente.io/matrix)  |  [Twitter](https://twitter.com/enteio)  |  [Mastodon](https://mstdn.social/@ente)  |  [Reddit](https://www.reddit.com/r/enteio/)  
 
 </div>
