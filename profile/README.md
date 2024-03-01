@@ -8,25 +8,19 @@
 
 📸    
 
-Open Source  
-End-to-end Encrypted  
+Open Source   
+End-to-end Encrypted   
 Cross Platform  
 
-✨✨✨     
+✨✨     
 
-Typescript, Flutter  
-[iOS](https://github.com/ente-io/photos-app), [Android](https://github.com/ente-io/photos-app), 
-[Web](https://github.com/ente-io/photos-web), [Linux/Mac/Windows](https://github.com/ente-io/photos-desktop)  
-Dark & Light
+👩‍💻 [All of our code is open source](https://github.com/ente-io/ente) 👨‍💻  
+Typescript, Flutter and Go    
+👩‍🎨 [Our Figma files are also open](https://www.figma.com/file/SYtMyLBs5SAOkTbfMMzhqt/ente-Visual-Design) 👨‍🎨    
 
-👩‍💻
+🗞️ [Blog](https://ente.io/blog) 🗞️  
 
-[Roadmap](https://github.com/orgs/ente-io/projects/3)  
-[Blog](https://ente.io/blog)  
-[Design System](https://www.figma.com/file/SYtMyLBs5SAOkTbfMMzhqt/ente-Visual-Design)
-
-🙏
-
-[Discord](https://ente.io/discord)  |  [Matrix](https://ente.io/matrix)  |  [Twitter](https://twitter.com/enteio)  |  [Mastodon](https://mstdn.social/@ente)  |  [Reddit](https://www.reddit.com/r/enteio/)  
+Come hang out!    
+[Discord](https://ente.io/discord)  |  [Twitter](https://twitter.com/enteio)  |  [Mastodon](https://mstdn.social/@ente)
 
 </div>
