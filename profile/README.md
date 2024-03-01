@@ -2,25 +2,18 @@
 
 ![socials](https://github.com/ente-io/.github/assets/24503581/26d33283-0cdc-4d85-9992-4769f1b240d7)
 
-# We are Ente
-
-### and we're building the best photos app on earth!
-
-📸    
-
-Open Source   
-End-to-end Encrypted   
-Cross Platform  
-
-✨✨     
-
-👩‍💻 [All of our code is open source](https://github.com/ente-io/ente) 👨‍💻  
-Typescript, Flutter and Go    
-👩‍🎨 [Our Figma files are also open](https://www.figma.com/file/SYtMyLBs5SAOkTbfMMzhqt/ente-Visual-Design) 👨‍🎨    
-
-🗞️ [Blog](https://ente.io/blog) 🗞️  
-
-Come hang out!    
-[Discord](https://ente.io/discord)  |  [Twitter](https://twitter.com/enteio)  |  [Mastodon](https://mstdn.social/@ente)
-
 </div>
+
+The world's only platform for building end-to-end encrypted apps. Fully open
+source - clients, servers and a CLI.
+
+On this platform, we've already built two apps:
+
+* Ente Photos: An alternative to Google Photos and Apple Photos
+
+* Ente Auth: A **free** 2FA alternative to Authy
+
+✅ **Get the code → [ente-io/ente](https://github.com/ente-io/ente)**  
+☑️ Hang out → [ente.io/discord](https://ente.io/discord)  
+☑️ Read → [ente.io/blog](https://ente.io/blog)  
+☑️ More → [ente.io/community](https://ente.io/community)
