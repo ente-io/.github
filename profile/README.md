@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="750" alt="banner" src="https://user-images.githubusercontent.com/24503581/194852672-28d799f5-7e09-4158-ba5b-ef4af8a75482.png">
+![socials](https://github.com/ente-io/.github/assets/24503581/26d33283-0cdc-4d85-9992-4769f1b240d7)
 
 # We are Ente
 
