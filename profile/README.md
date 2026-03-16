@@ -1,6 +1,6 @@
 <div align="center">
 
-![socials](https://github.com/ente-io/.github/assets/24503581/26d33283-0cdc-4d85-9992-4769f1b240d7)
+![socials](https://github.com/ente/.github/assets/24503581/26d33283-0cdc-4d85-9992-4769f1b240d7)
 
 </div>
 
