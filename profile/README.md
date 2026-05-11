@@ -4,6 +4,8 @@
 
 </div>
 
+<br />
+
 The world's only platform for building end-to-end encrypted apps. Fully open
 source - clients, servers and a CLI.
 
