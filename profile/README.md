@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="1500" height="750" alt="github" src="https://github.com/user-attachments/assets/b12521e8-7a27-48eb-ab9c-4892074178ed" />
+<img width="1500" height="750" alt="ente-github-header" src="https://github.com/user-attachments/assets/c1cceed0-df52-4820-ba86-b5640a08c812" />
 
 </div>
 
