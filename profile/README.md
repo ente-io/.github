@@ -9,7 +9,7 @@
 The world's only platform for building end-to-end encrypted apps. Fully open
 source - clients, servers and a CLI.
 
-✅ **Get the code → [ente-io/ente](https://github.com/ente-io/ente)**  
+✅ **Get the code → [ente/ente](https://github.com/ente/ente)**  
 ☑️ Hang out → [ente.com/discord](https://ente.com/discord)  
 ☑️ Read → [ente.com/blog](https://ente.com/blog)  
 ☑️ More → [ente.com](https://ente.com)
